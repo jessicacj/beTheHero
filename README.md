@@ -15,3 +15,5 @@ Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 
 
 ---
 # Be The Hero!
+
+Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organizações Não Governamentais) que necessitem auxílio para realização de suas atividades.
