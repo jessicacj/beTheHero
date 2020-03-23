@@ -2,6 +2,8 @@
 
 [Semana Omnistack by Rocketseat :rocket:](https://rocketseat.com.br/week/aulas/11.0)
 
+![Wallpaper OmniStack 11 - 2560x1080](https://user-images.githubusercontent.com/42447794/77343867-23294400-6d11-11ea-862e-1f21b7a307db.jpg)
+
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
 ## Cronograma:
