@@ -1,4 +1,4 @@
-# Be The Hero!
+# Semana Omnistack 11.0 - Repositório da aplicação
 
 [Semana Omnistack by Rocketseat :rocket:](https://rocketseat.com.br/week/aulas/11.0)
 
@@ -14,3 +14,4 @@ Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 
 - [ ] 27.03 - Funcionalidades avançadas
 
 ---
+# Be The Hero!
