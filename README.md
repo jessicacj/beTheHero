@@ -1,4 +1,4 @@
-# Semana Omnistack 11.0 - Repositório da aplicação
+# Semana Omnistack 11.0 :rocket:
 
 [Semana Omnistack by Rocketseat :rocket:](https://rocketseat.com.br/week/aulas/11.0)
 
