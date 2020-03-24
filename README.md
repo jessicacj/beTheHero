@@ -7,7 +7,7 @@
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
 ## :pushpin: Cronograma:
-:heavy_check_mark:- [x] 23.03 - Apresentação do projeto e configuração do ambiente de desenvolvimento
+- [x] 23.03 - Apresentação do projeto e configuração do ambiente de desenvolvimento
 - [ ] 24.03 - Criação da base da aplicação (backend)
 - [ ] 25.03 - Construção da interface web (frontend)
 - [ ] 26.03 - Desenvolvimento do app mobile
