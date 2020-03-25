@@ -8,7 +8,7 @@ Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 
 
 ## :pushpin: Cronograma:
 - [x] 23.03 - Apresentação do projeto e configuração do ambiente de desenvolvimento
-- [ ] 24.03 - Criação da base da aplicação (backend)
+- [x] 24.03 - Criação da base da aplicação (backend)
 - [ ] 25.03 - Construção da interface web (frontend)
 - [ ] 26.03 - Desenvolvimento do app mobile
 - [ ] 27.03 - Funcionalidades avançadas
@@ -16,4 +16,12 @@ Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 
 ---
 # Be The Hero!
 
+## :bulb: Projeto:
+
 Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organizações Não Governamentais) que necessitem auxílio para realização de suas atividades.
+
+## :computer: Tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
