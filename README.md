@@ -28,5 +28,10 @@ Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organi
 
 ## :rocket: Layout:
 
+- Tela Inicial:
+![inicial](https://user-images.githubusercontent.com/42447794/77589818-308a2e00-6ecb-11ea-8a93-a773db71cb46.png)
+
+- Tela de cadastro da ONG:
+![cadastro](https://user-images.githubusercontent.com/42447794/77589838-34b64b80-6ecb-11ea-842c-df6d0080b620.png)
 
 :no_good: Made by Jéssica Costa.
