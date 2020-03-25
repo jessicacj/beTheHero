@@ -25,3 +25,8 @@ Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organi
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
+
+## :react: Layout:
+
+
+:no_good: Made by Jéssica Costa.
