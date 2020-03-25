@@ -28,6 +28,8 @@ Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organi
 
 ## :rocket: Layout:
 
+### WEB
+
 - Tela Inicial:
 ![inicial](https://user-images.githubusercontent.com/42447794/77589818-308a2e00-6ecb-11ea-8a93-a773db71cb46.png)
 
