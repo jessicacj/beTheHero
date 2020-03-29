@@ -1,5 +1,7 @@
 # Semana Omnistack 11.0 :rocket:
-<img align="center" src="https://github.com/jessicacj/beTheHero/blob/master/frontend/src/assets/logo.svg">
+<h1 align="center">
+<img src="frontend/src/assets/logo.svg" width="250px" alt="Be The Hero" />
+  <br />
 
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
