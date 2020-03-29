@@ -44,6 +44,15 @@ Desenvolvimento de uma API em Node.js com Express.
 
 ### Instalação Back-End
 
+1. Em uma pasta qualquer abra o terminal e clone este repositório <br />
+`$ git clone https://github.com/jessicacj/beTheHero.git`
+2. Acesse o diretório onde está o backend <br />
+`$ cd backend`
+3. Instale as depêndencias do projeto <br />
+`$ npm install`
+4. Rode a API <br />
+`$ npm start`
+
 ## Front-End
 Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 
@@ -53,12 +62,39 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 
 ### Instalação Front-End
 
+_Antes de rodar essa aplicação certifique-se que o Back-End também esteja rodando!_
+
+1. Em uma pasta qualquer abra o terminal e clone este repositório <br />
+`$ git clone https://github.com/jessicacj/beTheHero.git`
+2. Acesse o diretório onde está o front-end <br />
+`$ cd frontend`
+3. Instale as depêndencias do projeto <br />
+`$ yarn`
+4. Rode a aplicação (irá abrir automaticamente em `http://localhost:3000`) <br />
+`$ yarn start`
+
 ## Mobile
 
 - **React** — Biblioteca para criar interfaces de usuário
 - **Expo** — Plataforma que agiliza e facilita a criação de aplicativos com React Native
 - **Axios** — Cliente HTTP baseado em promises
 - **React Navigation** — Utilizado para navegação entre os componentes do React Native
+
+### Instalação Mobile
+
+_Antes de instalar o app certifique-se que o Back-End também esteja rodando!_
+
+1. Em uma pasta qualquer abra o terminal e clone este repositório <br />
+`$ git clone https://github.com/jessicacj/beTheHero.git`
+2. Acesse o diretório mobile <br />
+`$ cd mobile`
+3. Instale as depêndencias do projeto <br />
+`$ yarn`
+4. Rode a aplicação <br />
+`$ yarn start`
+5. Aguarde abrir a página com o QR Code do Expo
+6. Instale o aplicativo "Expo" em seu smartphone (disponível na Google Play Store e Apple Store)
+7. Leia o QR Code e aguarde a instalação
 
 ## Layout Web
 
