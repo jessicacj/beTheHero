@@ -30,7 +30,7 @@ Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organi
 ## Dependências
 
 - [Node.js](https://nodejs.org/en/)
-- [npm](hhttps://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)
 - [Expo CLI](https://expo.io/tools#cli)
 
 ## Back-End
