@@ -82,10 +82,5 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 <img src="https://user-images.githubusercontent.com/42447794/77856948-14d79e00-71d1-11ea-92e7-2441cc979b0f.jpeg" alt="Be The Hero App Preview 3" width="250" />
  <img src="https://user-images.githubusercontent.com/42447794/77856950-1903bb80-71d1-11ea-8548-43d2e8e75eed.jpeg" alt="Be The Hero App Preview 4" width="250" />
 </div>
-
-![splash](https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png)
-![WhatsApp Image 2020-03-29 at 15 11 28(2)](https://user-images.githubusercontent.com/42447794/77856946-0ee1bd00-71d1-11ea-99f2-9a9cf2c6e657.jpeg)
-![WhatsApp Image 2020-03-29 at 15 11 28(2)](https://user-images.githubusercontent.com/42447794/77856948-14d79e00-71d1-11ea-92e7-2441cc979b0f.jpeg)
-![WhatsApp Image 2020-03-29 at 15 11 28](https://user-images.githubusercontent.com/42447794/77856950-1903bb80-71d1-11ea-8548-43d2e8e75eed.jpeg)
 ---
 :rocket: Created by Jéssica Costa | [Semana Omnistack 11.0 Rocketseat](https://rocketseat.com.br/)
