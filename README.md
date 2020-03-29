@@ -113,7 +113,7 @@ _Antes de instalar o app certifique-se que o Back-End também esteja rodando!_
 ## Layout Mobile
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/42447794/77859855-18bfec00-71e2-11ea-8b71-d40c46dd2303.gif)
 <div style="display: flex">
-  <img src="https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png" alt="Be The Hero App Preview 1" width="250" />
+  <img src="https://user-images.githubusercontent.com/42447794/77859855-18bfec00-71e2-11ea-8b71-d40c46dd2303.gif" alt="Be The Hero App Preview 1" width="250" />
 <img src="https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png" alt="Be The Hero App Preview 1" width="250" />
 <img src="https://user-images.githubusercontent.com/42447794/77856946-0ee1bd00-71d1-11ea-99f2-9a9cf2c6e657.jpeg" alt="Be The Hero App Preview 2" width="250" />
 <img src="https://user-images.githubusercontent.com/42447794/77857341-346fc600-71d3-11ea-891a-75b6165cdd4a.jpeg" alt="Be The Hero App Preview 3" width="250" />
