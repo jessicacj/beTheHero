@@ -23,25 +23,33 @@ Repositório da aplicação Be The Hero, desenvolvida durante a Semana Omnistack
 
 
 ---
-## :bulb: Projeto
+## Projeto
 
 Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organizações Não Governamentais) que necessitem auxílio para realização de suas atividades.
 
-## :computer: Tecnologias:
+## Dependências
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+- [Expo CLI](https://expo.io/tools#cli)
 
-## :rocket: Layout:
+## Back-End
 
-### WEB
+Desenvolvimento de uma API em Node.js com Express.
+- **Express** — Framework web para criar APIs em Node.js
+- **Knex** — SQL query builder para Node.js
+- **SQLite3** — Banco de dados relacional
+- **Celebrate + Joi** — Validação de formulários
+- **Jest** — Estrutura de testes automatizados
 
-- Tela Inicial:
-![inicial](https://user-images.githubusercontent.com/42447794/77589818-308a2e00-6ecb-11ea-8a93-a773db71cb46.png)
+### Instalação Back-End
 
-- Tela de cadastro da ONG:
-![cadastro](https://user-images.githubusercontent.com/42447794/77589838-34b64b80-6ecb-11ea-842c-df6d0080b620.png)
+## Front-End
 
+## Mobile
+
+## Layout Web
+
+## Layout Mobile
 ---
 :rocket: Created by Jéssica Costa | [Semana Omnistack 11.0 Rocketseat](https://rocketseat.com.br/)
