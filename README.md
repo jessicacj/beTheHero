@@ -62,6 +62,15 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 
 ## Layout Web
 
+- Tela Inicial
+![inicial](https://user-images.githubusercontent.com/42447794/77855573-9cb8aa80-71c7-11ea-8b60-2fa7d6fc93f9.png)
+
+- Cadastro ONG
+![cadastro](https://user-images.githubusercontent.com/42447794/77855577-a0e4c800-71c7-11ea-8688-7e3334c00cf2.png)
+
+- Cadastro dos casos
+![novocaso](https://user-images.githubusercontent.com/42447794/77855696-76473f00-71c8-11ea-815a-8cfadfceeace.png)
+
 ## Layout Mobile
 ---
 :rocket: Created by Jéssica Costa | [Semana Omnistack 11.0 Rocketseat](https://rocketseat.com.br/)
