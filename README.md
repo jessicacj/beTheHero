@@ -23,7 +23,7 @@ Repositório da aplicação Be The Hero, desenvolvida durante a Semana Omnistack
 
 
 ---
-## :bulb: Projeto:
+## :bulb: Projeto
 
 Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organizações Não Governamentais) que necessitem auxílio para realização de suas atividades.
 
