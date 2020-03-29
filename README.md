@@ -62,11 +62,6 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 
 ## Layout Web
 
-<div style="display: flex">
-<img src="https://user-images.githubusercontent.com/42447794/77855573-9cb8aa80-71c7-11ea-8b60-2fa7d6fc93f9.png" alt="Be The Hero App Preview 1" width="250" />
-
-</div>
-
 - Tela Inicial
 ![inicial](https://user-images.githubusercontent.com/42447794/77855573-9cb8aa80-71c7-11ea-8b60-2fa7d6fc93f9.png)
 
@@ -80,6 +75,13 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 ![painel](https://user-images.githubusercontent.com/42447794/77855981-8bbd6880-71ca-11ea-9686-e3a109a12074.png)
 
 ## Layout Mobile
+
+<div style="display: flex">
+<img src="https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png" alt="Be The Hero App Preview 1" width="250" />
+<img src="https://user-images.githubusercontent.com/42447794/77856946-0ee1bd00-71d1-11ea-99f2-9a9cf2c6e657.jpeg" alt="Be The Hero App Preview 2" width="250" />
+<img src="https://user-images.githubusercontent.com/42447794/77856948-14d79e00-71d1-11ea-92e7-2441cc979b0f.jpeg" alt="Be The Hero App Preview 3" width="250" />
+ <img src="https://user-images.githubusercontent.com/42447794/77856950-1903bb80-71d1-11ea-8548-43d2e8e75eed.jpeg" alt="Be The Hero App Preview 4" width="250" />
+</div>
 
 ![splash](https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png)
 ![WhatsApp Image 2020-03-29 at 15 11 28(2)](https://user-images.githubusercontent.com/42447794/77856946-0ee1bd00-71d1-11ea-99f2-9a9cf2c6e657.jpeg)
