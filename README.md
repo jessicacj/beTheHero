@@ -79,7 +79,7 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 <div style="display: flex">
 <img src="https://user-images.githubusercontent.com/42447794/77856941-05f0eb80-71d1-11ea-856e-5995089bdbd1.png" alt="Be The Hero App Preview 1" width="250" />
 <img src="https://user-images.githubusercontent.com/42447794/77856946-0ee1bd00-71d1-11ea-99f2-9a9cf2c6e657.jpeg" alt="Be The Hero App Preview 2" width="250" />
-<img src="https://user-images.githubusercontent.com/42447794/77856948-14d79e00-71d1-11ea-92e7-2441cc979b0f.jpeg" alt="Be The Hero App Preview 3" width="250" />
+<img src="https://user-images.githubusercontent.com/42447794/77857341-346fc600-71d3-11ea-891a-75b6165cdd4a.jpeg" alt="Be The Hero App Preview 3" width="250" />
  <img src="https://user-images.githubusercontent.com/42447794/77856950-1903bb80-71d1-11ea-8548-43d2e8e75eed.jpeg" alt="Be The Hero App Preview 4" width="250" />
 </div>
 ---
