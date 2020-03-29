@@ -69,7 +69,10 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 ![cadastro](https://user-images.githubusercontent.com/42447794/77855577-a0e4c800-71c7-11ea-8688-7e3334c00cf2.png)
 
 - Cadastro dos casos
-![novocaso](https://user-images.githubusercontent.com/42447794/77855696-76473f00-71c8-11ea-815a-8cfadfceeace.png)
+![novo-caso](https://user-images.githubusercontent.com/42447794/77855980-895b0e80-71ca-11ea-8957-22e5609dafd0.png)
+
+- Casos cadastrados para a ONG
+![painel](https://user-images.githubusercontent.com/42447794/77855981-8bbd6880-71ca-11ea-9686-e3a109a12074.png)
 
 ## Layout Mobile
 ---
