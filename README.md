@@ -118,5 +118,6 @@ _Antes de instalar o app certifique-se que o Back-End também esteja rodando!_
 <img src="https://user-images.githubusercontent.com/42447794/77857341-346fc600-71d3-11ea-891a-75b6165cdd4a.jpeg" alt="Be The Hero App Preview 3" width="250" />
  <img src="https://user-images.githubusercontent.com/42447794/77856950-1903bb80-71d1-11ea-8548-43d2e8e75eed.jpeg" alt="Be The Hero App Preview 4" width="250" />
 </div>
+
 ---
 :rocket: Created by Jéssica Costa | [Semana Omnistack 11.0 Rocketseat](https://rocketseat.com.br/)
