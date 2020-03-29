@@ -1,8 +1,4 @@
 # Semana Omnistack 11.0 :rocket:
-
-[Semana Omnistack by Rocketseat](https://rocketseat.com.br/week/aulas/11.0)
-
-![logo](https://github.com/jessicacj/beTheHero/blob/master/frontend/src/assets/logo.svg)
 <img align="center" src="https://github.com/jessicacj/beTheHero/blob/master/frontend/src/assets/logo.svg">
 
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
