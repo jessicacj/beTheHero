@@ -1,4 +1,3 @@
-# Semana Omnistack 11.0 :rocket:
 <h1 align="center">
 <img src="frontend/src/assets/logo.svg" width="250px" alt="Be The Hero" />
   <br />
@@ -8,18 +7,10 @@
 <br />
 </h1>
 
-Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
+Repositório da aplicação Be The Hero, desenvolvida durante a Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
-## :pushpin: Cronograma:
-- [x] 23.03 - Apresentação do projeto e configuração do ambiente de desenvolvimento
-- [x] 24.03 - Criação da base da aplicação (backend)
-- [x] 25.03 - Construção da interface web (frontend)
-- [ ] 26.03 - Desenvolvimento do app mobile
-- [ ] 27.03 - Funcionalidades avançadas
 
 ---
-# Be The Hero!
-
 ## :bulb: Projeto:
 
 Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organizações Não Governamentais) que necessitem auxílio para realização de suas atividades.
