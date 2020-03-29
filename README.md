@@ -2,6 +2,11 @@
 <h1 align="center">
 <img src="frontend/src/assets/logo.svg" width="250px" alt="Be The Hero" />
   <br />
+  <img src="https://img.shields.io/badge/Front--end-ReactJS-blue" />
+  <img src="https://img.shields.io/badge/Back--end-Node.js-green" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-%234287f5" />
+<br />
+</h1>
 
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
