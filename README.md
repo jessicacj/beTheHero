@@ -45,8 +45,20 @@ Desenvolvimento de uma API em Node.js com Express.
 ### Instalação Back-End
 
 ## Front-End
+Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
+
+- **React** — Biblioteca para criar interfaces de usuário
+- **Axios** — Cliente HTTP baseado em promises
+- **React Router DOM** - Utilizado para roteamento e navegação entre os componentes do React
+
+### Instalação Front-End
 
 ## Mobile
+
+- **React** — Biblioteca para criar interfaces de usuário
+- **Expo** — Plataforma que agiliza e facilita a criação de aplicativos com React Native
+- **Axios** — Cliente HTTP baseado em promises
+- **React Navigation** — Utilizado para navegação entre os componentes do React Native
 
 ## Layout Web
 
