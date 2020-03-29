@@ -62,6 +62,11 @@ Aplicação Web desenvolvida durante a Semana Omnistack 11 da Rocketseat
 
 ## Layout Web
 
+<div style="display: flex">
+<img src="https://user-images.githubusercontent.com/42447794/77855573-9cb8aa80-71c7-11ea-8b60-2fa7d6fc93f9.png" alt="Be The Hero App Preview 1" width="250" />
+
+</div>
+
 - Tela Inicial
 ![inicial](https://user-images.githubusercontent.com/42447794/77855573-9cb8aa80-71c7-11ea-8b60-2fa7d6fc93f9.png)
 
