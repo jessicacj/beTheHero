@@ -1,8 +1,8 @@
 # Semana Omnistack 11.0 :rocket:
 
-[Semana Omnistack by Rocketseat :rocket:](https://rocketseat.com.br/week/aulas/11.0)
+[Semana Omnistack by Rocketseat](https://rocketseat.com.br/week/aulas/11.0)
 
-![Wallpaper OmniStack 11 - 2560x1080](https://user-images.githubusercontent.com/42447794/77343867-23294400-6d11-11ea-862e-1f21b7a307db.jpg)
+![logo](https://github.com/jessicacj/beTheHero/blob/master/frontend/src/assets/logo.svg)
 
 Repositório da aplicação Be The Hero!, desenvolvida na Semana Omnistack 11.0 (23 a 27 de Março - 2020).
 
@@ -37,4 +37,4 @@ Desenvolvimento de uma aplicação que irá conectar voluntários a ONGs (Organi
 ![cadastro](https://user-images.githubusercontent.com/42447794/77589838-34b64b80-6ecb-11ea-842c-df6d0080b620.png)
 
 ---
-:no_good: Made by Jéssica Costa.
+:rocket: Created by Jéssica Costa | [Semana Omnistack 11.0 Rocketseat](https://rocketseat.com.br/)
